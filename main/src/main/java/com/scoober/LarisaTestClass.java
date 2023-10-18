@@ -1,4 +1,4 @@
-public class CoolClass {
+public class LarisaTestClass {
     private String string;
     private int myInt;
 }
